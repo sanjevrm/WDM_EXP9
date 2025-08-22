@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### NAME : SANJEV R M
+### NAME: SANJEV R M
 ### DATE: 22-08-25
 ### AIM: 
 To implement preprocessing technique on Twitter Data using Rapidminer
